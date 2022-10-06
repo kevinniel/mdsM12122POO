@@ -29,6 +29,9 @@
   - 2 lettres ?
   - toutes ?
 
+## Groupes
+Solo + entraide
+
 
 ## Liens utiles Design Pattern
 
