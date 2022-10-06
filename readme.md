@@ -51,6 +51,8 @@ NB : Combinaisons L33T à prendre en compte :
 - s => 5
 - b => 8
 - t => 7
+- z => 2
+- g => 6
 
 ### Options pour les dates
 - Séparer les informations des dates pour les combiner avec les mots (comportement par défaut)
