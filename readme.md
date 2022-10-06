@@ -38,7 +38,7 @@ Le formulaire ainsi que le programme devront proposer de choisir parmis plusieur
 - Basculer toutes les lettres en majuscule
 - Basculer la première lettre en majuscule
 - Retirer les accents
-- Utiliser le L33T (trouver toutes les combinaisons possibles (avant et sans inclues)
+- Utiliser le L33T (trouver toutes les combinaisons possibles (avec et sans inclues)
 
 NB : Combinaisons L33T à prendre en compte : 
 - a => 4
