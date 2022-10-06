@@ -13,12 +13,14 @@
 
 ## interface graphique
 - champs de mots illimités
-- cahmps de dates illimités
+- champs de dates illimités
+- Les mots de passe sont dans un tableau (datatables) et peuvent être filtrés / recherchés
 
 ## Options du Guesser
 
 - Mots (base obligatoire) 
   - Majuscules / Minuscules ? Uppercase ? Capitalize ?
+  - avec / sans accents ?
 - Dates
   - séparation des dates ? 
   - dates au format francais ?
