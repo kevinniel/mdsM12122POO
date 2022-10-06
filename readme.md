@@ -42,6 +42,16 @@ Le formulaire ainsi que le programme devront proposer de choisir parmis plusieur
 - Utiliser le L33T pour plusieurs lettres (toutes les combinaisons avec/sans possibles)
 - Utiliser le L33T pour toutes les lettres
 
+NB : Combinaisons L33T à prendre en compte : 
+- a => 4
+- e => 3
+- i => 1
+- o => 0
+- l => 1
+- s => 5
+- b => 8
+- t => 7
+
 ### Options pour les dates
 - Séparer les informations des dates pour les combiner avec les mots (comportement par défaut)
 - Utiliser les nombres des dates
