@@ -31,6 +31,8 @@ Une fois le formulaire soumi, les informations devront être envoyées en asynch
 
 Le formulaire ainsi que le programme devront proposer de choisir parmis plusieurs options pour la génération des mots de passe.
 
+**Maximum 5 éléments par combinaison**
+
 ### Options pour les mots
 - Basculer toutes les lettres en minuscule
 - Basculer toutes les lettres en majuscule
