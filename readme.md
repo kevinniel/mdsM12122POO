@@ -41,11 +41,11 @@ Le formulaire ainsi que le programme devront proposer de choisir parmis plusieur
 - Utiliser le L33T pour toutes les lettres
 
 ### Options pour les dates
+- Séparer les informations des dates pour les combiner avec les mots (comportement par défaut)
 - Utiliser les nombres des dates
 - Transformer les dates en langage humain pour les mois
 - Utiliser l'année sur 2 chiffres
 - Utiliser l'année sur 4 chiffres
-- Séparer les informations des dates pour les combiner avec les mots
 - Ajouter la possibilité de choisir la langue utilisée pour récupérer les noms des jours / mois
 
 ### Options caractères spéciaux
