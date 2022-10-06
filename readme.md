@@ -37,7 +37,7 @@ Le formulaire ainsi que le programme devront proposer de choisir parmis plusieur
 - Basculer la première lettre en majuscule
 - Retirer les accents
 - Utiliser le L33T pour 1 lettre
-- Utiliser le L33T pour plusieurs lettre (toutes les combinaisons avec/sans possibles)
+- Utiliser le L33T pour plusieurs lettres (toutes les combinaisons avec/sans possibles)
 - Utiliser le L33T pour toutes les lettres
 
 ### Options pour les dates
