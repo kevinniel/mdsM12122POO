@@ -57,8 +57,16 @@ Le formulaire ainsi que le programme devront proposer de choisir parmis plusieur
 Les projets sont à réaliser de manière individuelle mais l'entraide est fortement recommandée.
 La notation se fera le dernier jour consacré à cette matière.
 
+## Étapes 
+
+1. faire le design HTML/CSS, y inclure l'ensemble du formulaire (avec toutes les options)
+2. Attaquer le programme Python
+  - Si vous n'êtes pas (encore) à l'aise en POO, commencez en procédural !
+  - Traitez 1 par 1, les possibilités du formulaire.
+3. Faire intéragir le formulaire et le python grâce à la mise en place de Flask, qui vous permettra d'appler le python depuis le JavaScript, en AJAX.
+4. Intégrer les mots de passe générés dans un tableau HTML. Le rendre "filtrable" pour vérifier l'existence d'un mot de passe spécifique.
+
 
 ## Liens utiles Design Pattern
-
 https://en.wikipedia.org/wiki/Design_Patterns
 https://en.wikipedia.org/wiki/Software_design_pattern
