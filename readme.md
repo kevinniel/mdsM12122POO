@@ -17,7 +17,7 @@ Le JavaScript ne devra être utilisé qu'en natif, et ne devra avoir aucun frame
 
 Le code réalisé en Python devra également être natif. Des librairies peuvent être utilisées, mais aucun framework n'est autorisé. L'ensemble du code devra être réalisé en orienté objet uniquement, et le fichier de lancement du script ne devra contenir qu'une seule ligne (éventuellement une de plus pour réaliser un import).
 
-NB : Pour pouvoir exécuter un script python depuis le JavaScript, vous aurez peut-etre besoin d'utiliser un framework ou micro-framework, du type Flask par exemple. Vous pourrez l'implémenter une fois votre programme python 
+NB : Pour pouvoir exécuter un script python depuis le JavaScript, vous aurez peut-etre besoin d'utiliser un framework ou micro-framework, du type Flask par exemple. Vous pourrez l'implémenter une fois votre programme python fonctionnel sur la génération des mots de passe. 
 
 ## interface graphique
 
