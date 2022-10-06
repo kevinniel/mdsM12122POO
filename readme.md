@@ -46,6 +46,7 @@ Le formulaire ainsi que le programme devront proposer de choisir parmis plusieur
 - Utiliser l'année sur 2 chiffres
 - Utiliser l'année sur 4 chiffres
 - Séparer les informations des dates pour les combiner avec les mots
+- Ajouter la possibilité de choisir la langue utilisée pour récupérer les noms des jours / mois
 
 ### Options caractères spéciaux
 - Ajouter les caractères spéciaux les plus communs (.$?!*)
