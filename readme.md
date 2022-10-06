@@ -42,7 +42,10 @@ Le formulaire ainsi que le programme devront proposer de choisir parmis plusieur
 
 ### Options pour les dates
 - Utiliser les nombres des dates
-- Transformer les dates en langage humain
+- Transformer les dates en langage humain pour les mois
+- Utiliser l'année sur 2 chiffres
+- Utiliser l'année sur 4 chiffres
+- Séparer les informations des dates pour les combiner avec les mots
 
 ### Options caractères spéciaux
 - Ajouter les caractères spéciaux les plus communs (.$?!*)
@@ -50,19 +53,12 @@ Le formulaire ainsi que le programme devront proposer de choisir parmis plusieur
 - Nombre de caractères spéciaux maximums dans la combinaison ?
 
 
-A FINIR
-- Dates
-  - séparation des dates ? 
-  - dates au format francais ?
-  - années (2 chiffres, 4 chiffres ?
-- Caractères spéciaux (liste des plus utilisés)
-
 ## Groupes
-Solo + entraide
+Les projets sont à réaliser de manière individuelle mais l'entraide est fortement recommandée.
+La notation se fera le dernier jour consacré à cette matière.
 
 
 ## Liens utiles Design Pattern
 
 https://en.wikipedia.org/wiki/Design_Patterns
-
 https://en.wikipedia.org/wiki/Software_design_pattern
