@@ -73,9 +73,14 @@ La notation se fera le dernier jour consacré à cette matière.
 ## Étapes 
 
 1. faire le design HTML/CSS, y inclure l'ensemble du formulaire (avec toutes les options)
-2. Attaquer le programme Python
-  - Si vous n'êtes pas (encore) à l'aise en POO, commencez en procédural !
-  - Traitez 1 par 1, les possibilités du formulaire.
+2. Attaquer le programme Python. Voici quelques étapes pouvant vous permettre de vous simplifier la vie : 
+  - simuler des données (texte, dates, caractères spéciaux, nombres ?)...
+  - éclater la date sur tous les formats
+  - éclater les mots en lowercase, uppercase, capitalize
+  - ajouter les options (caractères spéciaux etc...)
+  - traiter les combinaisons
+  Attention, si vous n'êtes pas (encore) à l'aise en POO, commencez en procédural !
+  
 3. Faire intéragir le formulaire et le python grâce à la mise en place de Flask, qui vous permettra d'appler le python depuis le JavaScript, en AJAX.
 4. Intégrer les mots de passe générés dans un tableau HTML. Le rendre "filtrable" pour vérifier l'existence d'un mot de passe spécifique.
 
