@@ -88,3 +88,17 @@ La notation se fera le dernier jour consacré à cette matière.
 ## Liens utiles Design Pattern
 https://en.wikipedia.org/wiki/Design_Patterns
 https://en.wikipedia.org/wiki/Software_design_pattern
+
+## Barème de notation
+Rendu d'un github avec un readme comprenant les explications suivantes : 
+- Utilisation de visibilité publique (lien dans votre code) + définition
+- Utilisation de visibilité privée (lien dans votre code) + définition
+- Utilisation de visibilité protégée (lien dans votre code) + définition
+- Utilisation du polymorphisme (lien dans votre code) + définition
+- Utilisation de l'encapsulation (lien dans votre code) + définition
+- Utilisation de composition (lien dans votre code) + définition
+- Utilisation de l'héritage (lien dans votre code) + définition
+- Utilisation d'interface (lien dans votre code) + définition
+- Utilisation de méthodes et attributs d'objets (lien dans votre code) + définition
+- Utilisation de méthodes et attributs statiques (lien dans votre code) + définition
+- Utilisation de méthodes et attributs de classe (lien dans votre code) + définition
