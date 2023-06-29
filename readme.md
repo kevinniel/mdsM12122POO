@@ -91,9 +91,6 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 
 ## Barème de notation
 Rendu d'un github avec un readme comprenant les explications suivantes : 
-- Utilisation de visibilité publique (lien dans votre code) + définition
-- Utilisation de visibilité privée (lien dans votre code) + définition
-- Utilisation de visibilité protégée (lien dans votre code) + définition
 - Utilisation du polymorphisme (lien dans votre code) + définition
 - Utilisation de l'encapsulation (lien dans votre code) + définition
 - Utilisation de composition (lien dans votre code) + définition
