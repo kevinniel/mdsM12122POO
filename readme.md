@@ -91,11 +91,11 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 
 ## Barème de notation
 Rendu d'un github avec un readme comprenant les explications suivantes : 
-- Utilisation du polymorphisme (lien dans votre code) + définition
-- Utilisation de l'encapsulation (lien dans votre code) + définition
-- Utilisation de composition (lien dans votre code) + définition
-- Utilisation de l'héritage (lien dans votre code) + définition
-- Utilisation d'interface (lien dans votre code) + définition
-- Utilisation de méthodes et attributs d'objets (lien dans votre code) + définition
-- Utilisation de méthodes et attributs statiques (lien dans votre code) + définition
-- Utilisation de méthodes et attributs de classe (lien dans votre code) + définition
+1. Utilisation du polymorphisme (lien dans votre code) + définition
+2. Utilisation de l'encapsulation (lien dans votre code) + définition
+3. Utilisation de composition (lien dans votre code) + définition
+4. Utilisation de l'héritage (lien dans votre code) + définition
+5. Utilisation d'interface (lien dans votre code) + définition
+6. Utilisation de méthodes et attributs d'objets (lien dans votre code) + définition
+7. Utilisation de méthodes et attributs statiques (lien dans votre code) + définition
+8. Utilisation de méthodes et attributs de classe (lien dans votre code) + définition
